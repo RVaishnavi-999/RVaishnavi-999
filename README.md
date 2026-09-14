@@ -1,6 +1,6 @@
 # Hey! Nice to see you 👋
 
-I'm **Vaishnavi R** : AI Solutions Consultant & Data Scientist (Applied AI) practitioner based in **Bangalore, India** 🇮🇳 (also working with clients across UK, Ireland, USA 🌍).
+I'm **Vaishnavi R**, an AI Solutions Consultant & Data Scientist (Applied AI) based in Bangalore, India 🇮🇳, working with clients across the UK, Ireland, and USA 🌍.
 
 >I build AI systems that create business impact — RAG, Agentic AI, Generative AI on Azure & AWS.
 
