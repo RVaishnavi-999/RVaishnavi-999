@@ -37,18 +37,16 @@ I'm **Vaishnavi R**, an AI Solutions Consultant & Data Scientist (Applied AI) ba
 ![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI Consulting & Delivery
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-1F6FEB?style=for-the-badge)
 ![Requirement Analysis](https://img.shields.io/badge/Requirement%20Analysis-22C55E?style=for-the-badge)
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-8B5CF6?style=for-the-badge)
 ![PoC to Production](https://img.shields.io/badge/PoC%20to%20Production-EC4899?style=for-the-badge)
-
-### Technologies & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ### 💼 My Recent Projects...
 - **Hub-and-Spoke Agentic IaC Platform** : Reduced engineering effort by ~40hrs/sprint
