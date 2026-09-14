@@ -63,6 +63,18 @@ I'm **Vaishnavi R**, an AI Solutions Consultant & Data Scientist (Applied AI) ba
 - [LiteLLM: A Comprehensive Analysis](https://www.linkedin.com/posts/vaishnavi-r_litellm-a-comprehensive-analysis-activity-7196911127300087808-krl4) : A practical analysis of lightweight LLM abstractions
 - [AWS Bedrock's Claude vs. OpenAI's GPT: A Comparative Analysis](https://www.linkedin.com/posts/vaishnavi-r_aws-bedrocks-claude-2-100k-vs-azure-openai-activity-7122542190198722560-Jd0k) : Head-to-head comparison
 
+### 🏅 Certifications
+<div align="left">
+
+- Microsoft Certified: Azure Data Scientist Associate (DP-100)
+- Claude Certified Architect Foundations (CCA-F), Anthropic
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- AWS Certified Cloud Practitioner (CLF-C02)
+
+</div>
+
+> Check out my website for more details: [rvaishnavi-999.github.io/portfolio.github.io](https://rvaishnavi-999.github.io/portfolio.github.io/)
+
 ### 🔗 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi--R-blue?logo=linkedin)](https://linkedin.com/in/vaishnavi-r)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rvaishnavi--999-brightgreen)](https://rvaishnavi-999.github.io/portfolio.github.io/)
